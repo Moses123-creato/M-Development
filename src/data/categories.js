@@ -1,0 +1,38 @@
+export const categoriesData = [
+  {
+    id: 1,
+    name: "Fashion & Tailoring",
+    description: "Master the art of professional tailoring and fashion design with hands-on experience.",
+    icon: "Scissors",
+    color: "from-primary-500 to-primary-600",
+    programs: 12,
+    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+  },
+  {
+    id: 2,
+    name: "Beauty & Grooming",
+    description: "Develop expertise in hairstyling, barbering, makeup, and personal grooming services.",
+    icon: "Sparkles",
+    color: "from-secondary-500 to-secondary-600",
+    programs: 18,
+    image: "https://images.unsplash.com/photo-1562896369-2be32758fe5f?w=800",
+  },
+  {
+    id: 3,
+    name: "Carpentry & Trade Skills",
+    description: "Learn woodworking, furniture making, and advanced trade techniques.",
+    icon: "Hammer",
+    color: "from-accent-500 to-accent-600",
+    programs: 8,
+    image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800",
+  },
+  {
+    id: 4,
+    name: "Digital & Tech Skills",
+    description: "Gain modern skills in web development, coding, design, and digital marketing.",
+    icon: "Code2",
+    color: "from-primary-600 to-primary-700",
+    programs: 15,
+    image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800",
+  },
+];
